@@ -1,0 +1,8 @@
+Student Performance Prediction 
+Bu projede öğrencilerin sınav performanslarını etkileyen faktörler veri bilimi ile incelendi.
+İncelenirken Python kullanıldı. 
+Öncelikle veri seti hakkında bilgi edinildi. Makine öğrenmesi yapılabimesi adına object olan değişkenler kategorik değişkenlere çevrildi.
+Veri setinden istatistik bilgiler edinildi ve edinilen bilgiler görselleştirildi.
+Veriseti üzerinden bir değişkenin not ortalamasına olan etkileri incelendi
+Makine öğrenmesi için One-Hot dönüşümü yapıldı.
+Birçok makine öğrenmesi algoritması denendi ve sonuçları gözlemlendi.
